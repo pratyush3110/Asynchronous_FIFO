@@ -1,0 +1,1 @@
+Designed an 8-bit wide, 16-depth asynchronous FIFO in Verilog, incorporating read/write pointer management and synchronization across different clock domains. Implemented 2FF synchronizers to facilitate the smooth transfer of read and write pointers between clock domains, ensuring robust data integrity.
